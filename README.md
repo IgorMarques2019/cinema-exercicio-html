@@ -37,4 +37,4 @@ O Cheiro do ralo - 15:00 - Amanhã
 6.7 - Mude a família da fonte de todo o site para Arial.
 ```
 ---
-Para ver [site rodando clique aqui]()
+Para ver [site rodando clique aqui](https://igormarques2019.github.io/cinema-exercicio-html/)
