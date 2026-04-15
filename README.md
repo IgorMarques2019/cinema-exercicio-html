@@ -1,4 +1,4 @@
-O exercício proposto é desenvolver um site para um cinema, a idéia principal e fixar conhecimentos de navegação entre páginas (HyperTexto).
+O exercício proposto é desenvolver um site para um cinema, a idéia principal e fixar conhecimentos de navegação entre páginas/arquivos
 
 ## Descrição do exercício
 ```markdown
